@@ -25,7 +25,7 @@
 /**
  * [CLASS/FUNCTION INDEX of SCRIPT]
  *
- * $Id: $
+ * $Id$
  */
 
 require_once(PATH_t3lib . 'interfaces/interface.t3lib_browselinkshook.php');
